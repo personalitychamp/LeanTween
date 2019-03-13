@@ -1,0 +1,13 @@
+{
+    "name": "com.coc.lean-tween",
+    "displayName": "Lean Tween",
+    "version": "0.0.1",
+    "unity": "2018.3",
+    "description": "Tweening Library.",
+    "keywords": [
+        "tween",
+        "animation",
+        "lerp"
+    ],
+    "category": "Unity"
+}
